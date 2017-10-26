@@ -1,0 +1,30 @@
+body{
+    margin: 20; 
+}
+
+header {
+        background-color: rgb(253, 253, 253);
+}
+
+aside {
+    background-image : url('/img/panorama-lyon.jpg');  
+    background-size : cover;
+    width : 40%;
+}
+
+.w3-sidebar {
+    background-color: rgb(183, 199, 79);
+    width: 30%;
+}
+
+main{
+    margin-left: 30%;
+}
+
+#myButton {
+    transition: transform 1s; 
+}
+.rotate {
+    transform: rotate(90deg); 
+    transition: transform 1s; 
+}
