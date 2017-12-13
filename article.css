@@ -1,0 +1,26 @@
+.super-article {
+        margin : 50px;
+}
+
+.center {
+        display : flex;
+        flex-direction: row;
+        justify-content : center;
+        align-items: center; 
+}
+
+
+body {
+        font-size: 13px;
+      }
+      
+
+p
+      {
+          color: rgb(42, 45, 94);
+      } 
+      
+      
+body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }    
