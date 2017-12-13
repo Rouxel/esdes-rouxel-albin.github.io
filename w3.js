@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html>
-<title>W3.JS</title>
-<script src="/lib/w3.js"></script>
-<body>
+function byTwo() {
+    var result = parseInt(prompt('Donnez le nombre à multiplier par 2 :'));
+    alert(result * 2);
+}
 
-<p>Click the button to toggle between hiding and showing the element with id="London".</p>
+byTwo();
 
-<button onclick="w3.toggleShow('#London')">Toggle Hide/Show</button>
+alert('Vous en êtes à la moitié !');
 
-<div id="London">
-  <h2>London</h2>
-  <p>London is the capital city of England.</p>
-</div>
-
-</body>
-</html>
+byTwo();
