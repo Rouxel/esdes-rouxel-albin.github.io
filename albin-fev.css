@@ -1,0 +1,119 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+</style>
+
+html    {
+height: 100%; 
+}
+
+body {
+    height: 100%; 
+    margin: 0;     
+}
+
+
+header {
+    background-repeat: no-repeat; 
+    background-size : cover; 
+    background-position: center; 
+    height: 100%; 
+    display: flex;
+    flex-direction: center; 
+    margin: 0; 
+    justify-content: center; 
+    align-items: center;
+}
+
+
+section {
+    height : 100%; 
+    flex-direction: row; 
+    justify-content:flex-start; 
+    align-content: center; 
+    flex-wrap:wrap;   
+    display: flex;        
+}
+
+article {
+    padding : 15px; 
+    border : solid 2px black; 
+    width : 20%; 
+    margin : 20px; 
+}
+
+/* Images of articles */
+#école { background-image: url('img/anton-sukhinov-428279.jpg'); }
+
+#réunion { background-image: url('img/rawpixel-com-296612.jpg'); }
+
+#paysage { background-image: url('img/blake-richard-verdoorn-17591.jpg'); }
+
+article {
+    position: relative;
+    width : 20%; 
+    height : 20%;
+    filter: grayscale(0);
+    overflow: hidden;
+}
+.bg-img{
+    position:absolute;
+    background-image: url('img/anton-sukhinov-428279.jpg'); 
+    background-repeat:no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    top : 0;
+    left : 0; 
+    width : 100%;
+    height : 100%;
+    filter: grayscale(1);
+    z-index: -1;
+}
+
+article:hover .bg-img {
+    filter: grayscale(0); 
+    transform: scale(1.5); 
+    overflow: hidden;
+}
+
+
+h1 {
+    border : solid; 
+    border-width: 5px; 
+    border-color : red; 
+    padding: 55px; 
+    bottom: 0;
+    opacity: 0; 
+    position : fixed; 
+    margin : auto; 
+
+}
+
+
+h2  {
+    color: rgb(20, 12, 20);
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+   color: black; 
+   font-family: 'Open Sans', sans-serif;
+}
+
+header path {
+fill: transparent;
+stroke: black; 
+}
+
+/* For Mobiles Only */
+@media only screen and (max-width : 600px) {
+section {
+        width: 90%;
+}
+
+/* For Tablets Only */
+@media only screen and (min-width : 900px) and (max-width : 768px)
+
+/* For Desktop Only */
+@media only screen and (min-width : 768px) {
+
+}
