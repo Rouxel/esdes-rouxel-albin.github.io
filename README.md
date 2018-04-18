@@ -10,7 +10,7 @@ Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol
 
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
-![alt text](http://Albin/Site Web CV/maquette-site-cv.jpg)
+![Preview](https://raw.githubusercontent.com/esdes-rouxel-albin.github.io/esdes-rouxel-albin.github.io/master/image-path/image.png)
 
 ## ACCUEIL 
 
