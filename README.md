@@ -10,7 +10,7 @@ Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol
 
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
-![Preview](https://raw.githubusercontent.com/esdes-rouxel-albin/esdes-rouxel-albin.github.io/esdes-rouxel-albin.github.io/img/maquette-site-cv.jpg)
+![alt text](https://raw.githubusercontent.com/esdes-rouxel-albin/esdes-rouxel-albin.github.io/img/maquette-site-cv.jpg)
 
 ## ACCUEIL 
 
