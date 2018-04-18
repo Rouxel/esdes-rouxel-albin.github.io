@@ -10,6 +10,8 @@ Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol
 
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
+Objectif : Vendre ses compétences en digital communication et son parcours (stages alternances entreprise) !  
+
 ![alt text](https://github.com/esdes-rouxel-albin/esdes-rouxel-albin.github.io/blob/master/img/maquette-site-cv.jpg)
 
 ## ACCUEIL 
