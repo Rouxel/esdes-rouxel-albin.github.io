@@ -10,7 +10,7 @@ Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol
 
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
-![alt text](https:/C:/Users/Utilisateur/Documents/Albin/Site Web CV/maquette-site-cv.jpg)
+![alt text](http://Albin/Site Web CV/maquette-site-cv.jpg)
 
 ## ACCUEIL 
 
