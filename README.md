@@ -10,7 +10,7 @@ Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol
 
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
-![alt text](https://raw.githubusercontent.com/esdes-rouxel-albin/esdes-rouxel-albin/esdes-rouxel-albin.github.io/img/maquette-site-cv.jpg)
+![alt text](https://github.com/esdes-rouxel-albin/esdes-rouxel-albin.github.io/blob/master/img/maquette-site-cv.jpg)
 
 ## ACCUEIL 
 
@@ -37,8 +37,6 @@ FORME : L'image et le texte seront figés. Onglet menu en haut à droite. Texte 
 
 Animation : IL n'y aura pas d'animations sur cette page. 
 
-
-
 ## COMPETENCES : 
 
 
@@ -62,5 +60,3 @@ FORME : Flèche avec différents points (ronds) correspondant à un évènement 
 
 Animation : Une animation Javascript avec l'apparation progressive de la flèche de gauche à droite avec les points (ronds) des évènements apparaissant. 
 
-
-Mettre maquette illustrator en jpeg png > lien image 
