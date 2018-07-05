@@ -1,0 +1,83 @@
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: 0;
+    font-weight: bold;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    background: #615f8b;
+    color: #fff;
+  }
+  /* Add a rollover background colour but keep the text white */
+  .button:hover,
+  .button:focus,
+  .button:active {
+    background: #b7b6cd;
+    color: #fff;
+}
+
+section{
+  display: flex;
+  flex-direction: row;
+}
+.part1{
+  display: flex;
+  flex-direction: column;
+}
+
+.part2{
+  display:flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+p {
+font-family:'Indie Flower', cursive;
+font-size: 120%;    
+}
+
+@font-face {
+font-family: 'Indie Flower', cursive;
+src: "https://fonts.googleapis.com/css?family=Indie+Flower"; 
+}
+
+a:hover {
+  background-color: pink;
+}
+
+
+/* Mobile */
+@media (min-width:320px) { 
+
+  .tester {
+      width:100%;
+      height:500px;
+      background-color:white;
+  }
+}
+
+/* Tablet */
+@media (min-width:640px) {
+
+  .tester {
+      width:100%;
+      height:500px;
+      background-color:red;
+  }   
+
+}
+
+/* Desktop */
+@media (min-width:960px) {
+
+  .tester {
+      width:100%;
+      height:500px;
+      background-color:blue;
+  }   
+
+}
+
+
+
