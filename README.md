@@ -6,8 +6,6 @@ dns le domaine médico-social, santé et bien-être.
 La couverture géograpghique s'étend dans Lyon et son agglomération. 
 L'objectif est de me vendre mes compétences en communication digitale et mon parcours (expériences en entreprise). 
 
-Mon CV sera décliné en 3 langues : Français, Anglais, Espagnol 
-
 Le site comprendra plusieurs rubriques suivantes : Accueil, Présentation parcours, compétences et formations/expériences 
 
 Objectif : Vendre ses compétences en digital communication et son parcours (stages alternances entreprise) !  
@@ -22,7 +20,7 @@ FOND : La page d'accueil présentera un titre intitulé au milieu "Albin ROUXEL 
 FORME : Il y'aura une photo en arrière plan. Les titres seront en grande police. Onglet menu en haut à droite. 
 
 
-Animation : Il y'aura une slidebar avec le menu dont parcours, compétences, et expériences et lecture en plusieurs langues au dessus dont Français, Anglais, Espagnol. 
+Animation : Il y'aura une slidebar avec le menu dont parcours, compétences, et expériences. 
 
 
 
