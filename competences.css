@@ -77,7 +77,6 @@ p {
       -webkit-transition-property: width height background-color font-size left top color;
       -webkit-transition-duration: 2s;
       -webkit-transition-timing-function: ease;
-      transition-property: width height background-color font-size left top color;
       transition-duration: 2s;
       transition-timing-function: ease;
   }
@@ -93,7 +92,6 @@ p {
       -webkit-transition-property: width height background-color font-size left top color;
       -webkit-transition-duration: 2s;
       -webkit-transition-timing-function: ease;
-      transition-property: width height background-color font-size left top color;
       transition-duration: 2s;
       transition-timing-function: ease;
   }
