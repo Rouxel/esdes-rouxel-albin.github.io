@@ -39,6 +39,7 @@ Animation : IL n'y aura pas d'animations sur cette page.
 
 ## COMPETENCES : 
 
+[DEPRECHAPED]
 
 FOND : 2 types de communication seront présentées. A gauche, les compétences de la communication générale à savoir Rédactionnel, Management,Suite Adobe, Relationnel,Créativité, Synthèse, etc. 
 A droite, les compétences en communication digitale seront présentées à savoir Community Management, Codage HTML/CSS/Java, SEO SEA, Wordpress/Wix etc. 
@@ -51,6 +52,8 @@ Animation : Une animation Javascript pour chaque compétence, jauge qui se rempl
 
 
 ## FORMATIONS et EXPERIENCES : 
+
+[DEPRECHAPED]
 
 FOND : Présentation des expériences professionnelles et personnelles ainsi que les diplômes professionnelles. Pour chaque expérience, nom de la fonction, nom de la structure, lieu, date, missions en quelques lignes. Diplômes : nom de l'établissement, nom du diplôme et lieu de la formation. 
 
