@@ -69,7 +69,7 @@ font-size: 25px;
 
 
 div:hover {
-  background-color: #F89B4D;
+  background-color: rgb(236, 235, 233);
 }
 
 body :nth-child(4n) {
@@ -114,7 +114,7 @@ footer  {
   }  
   
   p {
-    animation-duration: 5s;
+    animation-duration: 10s;
     animation-name: glissement;
     animation-iteration-count: infinite;
   }
