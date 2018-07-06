@@ -36,10 +36,6 @@ font-family:'Indie Flower', cursive;
 font-size: 120%;    
 }
 
-@font-face {
-font-family: 'Indie Flower', cursive;
-src: "https://fonts.googleapis.com/css?family=Indie+Flower"; 
-}
 
 a:hover {
   background-color: pink;
